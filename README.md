@@ -96,7 +96,7 @@ An intuitive web application simplifying rental property search for bachelors:
 I'm always open to collaborating on interesting projects or discussing technology. Feel free to reach out!
 
 - 📧 Email: ajaykumarpujari22@gmail.com
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/Ajay Kumar Pujari)
+- 💼 LinkedIn: [PUJARI AJAY KUMAR](https://www.linkedin.com/in/pujari-ajay-kumar-a30268362?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 📱 Phone: +91 6303401919
 
 ---
