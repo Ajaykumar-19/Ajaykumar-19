@@ -79,16 +79,6 @@ An intuitive web application simplifying rental property search for bachelors:
 - Implemented CRUD operations with database connectivity
 - Enhanced OOP and problem-solving skills
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-</div>
-
 ## 🏆 Certifications
 
 - ✅ Web Development Internship (DDU-GKY)
@@ -106,7 +96,7 @@ An intuitive web application simplifying rental property search for bachelors:
 I'm always open to collaborating on interesting projects or discussing technology. Feel free to reach out!
 
 - 📧 Email: ajaykumarpujari22@gmail.com
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/ajaykumarpujari)
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/Ajay Kumar Pujari)
 - 📱 Phone: +91 6303401919
 
 ---
