@@ -205,15 +205,6 @@ Explored **100,000+ real customer orders** from a Brazilian e-commerce platform.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ajaykumar-19/Ajaykumar-19/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
-> ⚙️ To enable the snake animation, add a GitHub Actions workflow in your profile repo. Search **"GitHub contribution snake action"** to set it up.
-
----
 
 <div align="center">
 
