@@ -1,126 +1,239 @@
 <div align="center">
 
-<img src="https://github.com/profile.png" width="120" height="120" style="border-radius: 50%;" alt="Pujari Ajay Kumar"/>
+<!-- PROFILE PHOTO — Upload your photo to your GitHub repo and replace the URL below -->
+<img src="https://avatars.githubusercontent.com/YOUR_GITHUB_USERNAME" width="130" style="border-radius:50%;" alt="Pujari Ajay Kumar"/>
 
-# Hi, I'm Pujari Ajay Kumar 👋
+<h1>
+  <img src="profile.png" width="28"/>
+  Hi, I'm Pujari Ajay Kumar
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Python+%7C+Flask+%7C+MySQL;HTML+%7C+CSS+%7C+JavaScript;Immediate+Joiner+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- ANIMATED TYPING ROLE -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Full+Stack+Web+Developer+%F0%9F%92%BB;Python+%7C+SQL+%7C+Power+BI+Enthusiast;Flask+%7C+HTML+%7C+CSS+%7C+JavaScript;Open+to+Work+%E2%80%94+Immediate+Joiner+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-📍 Hyderabad, Telangana &nbsp;|&nbsp; 📧 ajaykumarpujari22@gmail.com
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/pujari-ajay-kumar-a30268362)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
-[![Email](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ajaykumarpujari22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pujari-ajay-kumar-a30268362)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaykumarpujari22@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
-Motivated final-year **Electronics & Communication Engineering** student with hands-on experience in **full stack web development** and **Python programming**. Completed two industry internships and built real-world web applications with measurable impact. Seeking an entry-level **Software Developer** or **Web Developer** role to contribute and grow.
+```python
+ajay = {
+    "name"      : "Pujari Ajay Kumar",
+    "location"  : "Hyderabad, Telangana 🇮🇳",
+    "education" : "B.Tech ECE — A.M. Reddy Memorial College (2022–2026)",
+    "roles"     : ["Data Analyst", "Full Stack Developer"],
+    "tools"     : ["Python", "SQL", "Power BI", "Flask", "HTML/CSS/JS", "Excel"],
+    "status"    : "Final Year Student | Immediate Joiner 🚀",
+    "interests" : ["Data Storytelling", "Business Intelligence", "Sports Analytics"],
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### 📊 Data & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌾 CropAI – Smart Farmer Support System
-> **Python · Flask · MySQL · HTML5 · CSS3 · Bootstrap**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A full stack advisory platform helping farmers make smarter agricultural decisions.
+### 🌾 CropAI — Smart Farmer Support
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-- 🔗 Integrated **Python Flask backend** with MySQL for real-time crop suggestions, weather updates, fertilizer guidance, and market trends
-- ⏱️ Reduced farmer decision-making time by **60%** through intelligent recommendations
-- 📱 Developed a **mobile-responsive Bootstrap UI** optimised for low-bandwidth rural devices
+A full-stack advisory platform for farmers providing crop suggestions, weather updates, fertilizer guidance, and market trends.
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/CropAI)
+- 🔗 Flask backend + MySQL integration
+- ⚡ Reduced farmer decision-making time by **60%**
+- 📱 Mobile-responsive Bootstrap UI for low-bandwidth devices
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🏠 StaySmart – Smart Housing Finder
-> **HTML5 · CSS3 · JavaScript · MySQL**
+### 🏠 StaySmart — Smart Housing Finder
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 A responsive web app simplifying rental property search for bachelors and working professionals.
 
-- 🔍 Built smart filtering by **location, budget, and amenities** for improved search accuracy
-- 🎨 Designed clean property card UI for quick browsing and easy decision-making
-- 📐 Fully responsive layout with cross-device compatibility
+- 🔍 Smart filtering by location, budget & amenities
+- 🃏 Clean property card UI for quick browsing
+- 📐 Fully responsive across all screen sizes
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/StaySmart)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 Road Accident Analysis in India
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+Analysed **500,000+ data points** from official Indian government records across 35 states and 5+ years.
+
+- 🗺️ Heatmaps, YoY comparisons & state-level risk rankings
+- 🔎 Identified high-risk states & peak accident periods
+- 📊 Interactive Power BI dashboard for policymakers
+
+</td>
+<td width="50%" valign="top">
+
+### 🏏 IPL Cricket Data Analysis
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**16 seasons of IPL data** (2008–2024) — 950+ matches across all venues and franchises.
+
+- 📈 Team performance trends & win probability analysis
+- 🎛️ Dynamic slicers for season, team & player drill-down
+- 🏆 Toss decisions, powerplay impact & home advantage insights
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Customer Behavior
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+Explored **100,000+ real customer orders** from a Brazilian e-commerce platform.
+
+- 🔗 Multi-table SQL joins across 4+ relational tables
+- 📦 Delivery delay patterns & peak order period analysis
+- 💡 Recommendations on logistics & revenue optimisation
+
+</td>
+<td width="50%" valign="top">
+
+### 🔭 More Projects Coming Soon...
+
+> *"Data is the new oil — I refine it."*
+
+⭐ Star this profile and stay tuned for upcoming projects in **Sports Analytics**, **Dashboard Design**, and **AI-integrated Web Apps**.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
-**Web Development Intern** — DDU-GKY *(Govt. of India Skill Development Program)* · Sep 2025 – Jan 2026
-- Built **10+ responsive web pages** using HTML5, CSS3, and JavaScript with 100% cross-device compatibility
-- Optimised UI performance, reducing average page load time by **30%**
-- Collaborated using **Git & GitHub** for version control and code reviews
+| | Role | Organisation | Duration |
+|--|------|-------------|----------|
+| 🔵 | **Data Analytics Intern** | ExcelR Solutions *(APSCHE Initiative)* | 2024 · 16 Weeks |
+| 🟢 | **Web Development Intern** | DDU-GKY *(Govt. of India Skill Dev. Program)* | Sep 2025 – Jan 2026 |
+
+**Key Highlights:**
+- 📋 Standardised **10,000+ records** across multiple business datasets
+- 🖥️ Built **10+ responsive web pages** with 100% cross-device compatibility
+- ⚡ Reduced page load time by **30%** through UI optimisation
+- 📊 Delivered Power BI dashboards that cut manual reporting time significantly
 
 ---
 
-## 🎓 Education
+## 📜 Certifications & Achievements
 
-**B.Tech – Electronics & Communication Engineering**
-A.M. Reddy Memorial College of Engineering & Technology · CGPA: **7.47 / 10** · 2022 – 2026
-
----
-
-## 📜 Certifications
-
-- 🏅 Web Development Internship — *DDU-GKY, Govt. of India Skill Development Program* (2026)
-- 🏅 Python Full Stack Development — *SkillDzire Pvt. Ltd.* (2024)
-- 🏆 AMR Hackmania Hackathon — Participant & Certificate Holder (2025, 2026)
+| Badge | Certification | Issuer | Year |
+|-------|--------------|--------|------|
+| 🏅 | Web Development Internship | DDU-GKY, Govt. of India | 2026 |
+| 🏅 | Python Full Stack Development | SkillDzire Pvt. Ltd. | 2024 |
+| 🏅 | Data Visualization with Power BI | Great Learning | 2024 |
+| 🏅 | Power BI for Beginners | Simplilearn SkillUp | 2024 |
+| 🏆 | AMR HACKMANIA Hackathon | A.M. Reddy Memorial College | 2025 & 2026 |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
 
 </div>
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
+
+> ⚙️ To enable the snake animation, add a GitHub Actions workflow in your profile repo. Search **"GitHub contribution snake action"** to set it up.
+
+---
+
 <div align="center">
 
-**💬 Open to entry-level Software Developer & Web Developer roles — Immediate Joiner!**
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2E97F7&style=for-the-badge&label=PROFILE+VIEWS)
 
-⭐ *If you like my work, consider starring my repos!*
+<br/>
+
+### 💬 Let's Connect & Build Something Amazing!
+
+*Open to **Data Analyst** and **Full Stack Developer** roles — Immediate Joiner 🚀*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pujari-ajay-kumar-a30268362)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Drop%20a%20Mail-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaykumarpujari22@gmail.com)
+
+---
+
+*⭐ If you like my work, consider starring my repositories!*
 
 </div>
