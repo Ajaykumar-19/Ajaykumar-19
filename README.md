@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- PROFILE PHOTO — Upload your photo to your GitHub repo and replace the URL below -->
-<img src="https://avatars.githubusercontent.com/YOUR_GITHUB_USERNAME" width="130" style="border-radius:50%;" alt="Pujari Ajay Kumar"/>
+<img src="https://avatars.githubusercontent.com/Ajaykumar-19" width="130" style="border-radius:50%;" alt="Pujari Ajay Kumar"/>
 
 <h1>
   <img src="profile.png" width="28"/>
@@ -193,13 +193,13 @@ Explored **100,000+ real customer orders** from a Brazilian e-commerce platform.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ajaykumar-19&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumar-19&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ajaykumar-19&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
 
 </div>
 
@@ -208,7 +208,7 @@ Explored **100,000+ real customer orders** from a Brazilian e-commerce platform.
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Ajaykumar-19/Ajaykumar-19/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
 > ⚙️ To enable the snake animation, add a GitHub Actions workflow in your profile repo. Search **"GitHub contribution snake action"** to set it up.
@@ -218,7 +218,7 @@ Explored **100,000+ real customer orders** from a Brazilian e-commerce platform.
 <div align="center">
 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2E97F7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Ajaykumar-19&color=2E97F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
