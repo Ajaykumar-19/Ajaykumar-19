@@ -1,110 +1,107 @@
-# Hi there, I'm Ajay Kumar Pujari 👋
+# Hi, I'm Pujari Ajay Kumar 👋
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-ajaykumarpujari22%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ajaykumarpujari22@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Hyderabad-blue?style=for-the-badge&logo=google-maps)](https://maps.google.com/?q=Hyderabad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ajaykumarpujari)
+**Data Analyst | Python · SQL · Power BI · Excel**
 
-</div>
-<p align="center">
-  <img src="./profile.png" width="170">
-</p>
+Final-year B.Tech (ECE) student with hands-on experience turning raw data into actionable business insights. I've worked with 100,000–500,000+ data points across transportation, sports, and e-commerce domains — building dashboards that drive decisions, not just look pretty.
 
-## 🎓 About Me
-
-I'm a passionate *Electronics & Communication Engineering* student at A.M. Reddy Memorial College of Engineering, with a strong focus on *Web Development* and *Full Stack Technologies*. I love building responsive, user-centric applications that solve real-world problems.
-
-- 🔭 Currently working on smart web applications for agriculture and housing
-- 🌱 Learning advanced frontend frameworks and database optimization
-- 💡 Interested in creating digital solutions for social impact
-- 📍 Based in Hyderabad, India
-- 🎯 Goal: To become a proficient Full Stack Developer
-
-## 💻 Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-00C4CC?style=for-the-badge&logo=responsive&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Technologies
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 🚀 Featured Projects
-
-### 🌾 [CropAI - Smart Farmer Support System](https://github.com/yourusername/cropai)
-*Tech Stack:* Python • MySQL • HTML • CSS • Bootstrap
-
-A comprehensive digital advisory platform designed to empower farmers with data-driven insights:
-- 🎯 Provides intelligent crop suggestions based on soil and climate data
-- 🌦️ Real-time weather updates and forecasts
-- 💊 Fertilizer guidance and recommendations
-- 📈 Market trends and price analysis
-- ⚡ *60% reduction* in farmer decision-making time
-- 📱 Mobile-friendly responsive UI for rural accessibility
-
-### 🏠 [StaySmart - Smart Housing Finder](https://github.com/yourusername/staysmart)
-*Tech Stack:* HTML5 • CSS3 • JavaScript
-
-An intuitive web application simplifying rental property search for bachelors:
-- 🔍 Smart filtering by location, budget, and amenities
-- 💼 Optimized UI/UX for quick property discovery
-- 📱 Fully responsive across all devices
-- ⚡ Fast, lightweight, and user-friendly interface
-
-## 💼 Professional Experience
-
-### Web Development Intern
-*DDU-GKY (Govt. of India Skill Development Program)* | Sep 2025 – Jan 2026
-- Built *10+ responsive web pages* with 100% cross-device compatibility
-- Optimized UI performance, achieving *30% reduction* in page load time
-- Collaborated using GitHub for clean, maintainable code
-
-### Java Full Stack Intern
-*SkillDzire Pvt Ltd* | Apr 2024 – Jun 2024
-- Developed web-based applications using Java and frontend technologies
-- Implemented CRUD operations with database connectivity
-- Enhanced OOP and problem-solving skills
-
-## 🏆 Certifications
-
-- ✅ Web Development Internship (DDU-GKY)
-- 🏅 AMR Hackmania – Hackathon Participant
-
-## 📈 Current Focus
-
-- 🔨 Building more full-stack projects with modern frameworks
-- 📚 Learning React.js and Node.js
-- 🎯 Contributing to open-source projects
-- 💡 Exploring cloud technologies and DevOps
-
-## 🤝 Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing technology. Feel free to reach out!
-
-- 📧 Email: ajaykumarpujari22@gmail.com
-- 💼 LinkedIn: [PUJARI AJAY KUMAR](https://www.linkedin.com/in/pujari-ajay-kumar-a30268362?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- 📱 Phone: +91 6303401919
+📍 Hyderabad, Telangana &nbsp;|&nbsp; 📧 ajaykumarpujari22@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/pujari-ajay-kumar-a30268362)
 
 ---
 
-<div align="center">
-  
-### ⭐ "Code is like humor. When you have to explain it, it's bad." – Cory House
+## 🛠️ Tech Stack
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+**Languages & Querying**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-</div>
+**BI & Visualization**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+
+**Libraries & Tools**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+
+**Databases**
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+---
+
+## 📊 Featured Projects
+
+### 🚦 Road Accident Analysis in India
+> Python · Pandas · Matplotlib · Power BI
+
+Analysed **500,000+ data points** from official Indian government records across 35 states and 5+ years.
+- Performed end-to-end data cleaning, missing value treatment, and feature engineering
+- Identified high-risk states, peak accident periods, and key contributing factors
+- Built an interactive Power BI dashboard with **accident heatmaps, YoY comparisons, and state-level risk rankings** to support road safety policymaking
+
+---
+
+### 🏏 IPL Cricket Data Analysis (2008–2024)
+> Excel · Power BI
+
+Deep-dived into **16 seasons of IPL data** covering 950+ matches across venues and franchises.
+- Statistical analysis of team performance, top run-scorers, bowling economy rates, and venue-based win probabilities
+- Dynamic Power BI report with season, team, and player slicers for **multi-dimensional drill-down**
+- Derived strategic insights on toss decisions, powerplay impact, and home-ground advantage
+
+---
+
+### 🛒 E-Commerce Customer Behavior Analysis
+> Python · Pandas · SQL · Matplotlib · Jupyter Notebook
+
+Explored **100,000+ real customer orders** from a Brazilian e-commerce platform.
+- Multi-table SQL joins across customer, order, product, and payment tables
+- EDA to uncover top-revenue categories, peak order periods, and regional delivery delay patterns
+- Data-driven recommendations on **logistics optimisation and product category prioritisation**
+
+---
+
+## 💼 Experience
+
+**Data Analytics Intern** — ExcelR Solutions *(Under APSCHE Initiative)* · 2024 · 16 Weeks
+- Completed an industry-aligned program covering end-to-end data workflows across 4 real-world business datasets
+- Standardised 10,000+ records, reducing data inconsistencies through cleaning and EDA
+- Designed Power BI dashboards for business stakeholders, cutting manual report preparation time significantly
+- Applied multi-table SQL queries (joins, aggregations, subqueries) across relational databases
+
+**Web Development Intern** — DDU GKY Institute · 2025
+- Completed a hands-on internship covering front-end fundamentals
+
+---
+
+## 🎓 Education
+
+**B.Tech – Electronics & Communication Engineering**
+A.M. Reddy Memorial College of Engineering and Technology · CGPA: 7.62 / 10 · 2022–2026
+
+---
+
+## 📜 Certifications
+
+- 🏅 Data Visualization with Power BI — *Great Learning* (2024)
+- 🏅 Power BI for Beginners — *Simplilearn SkillUp* (2024)
+- 🏆 AMR HACKMANIA — Hackathon Participant & Certificate Holder
+
+---
+
+## 📈 GitHub Stats
+
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+
+> ⚠️ Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to activate the stats cards.
+
+---
+
+## 🤝 Let's Connect
+
+I'm an **immediate joiner** actively looking for Data Analyst roles. If you're working on interesting data problems, let's talk!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/pujari-ajay-kumar-a30268362)
+[![Email](https://img.shields.io/badge/Email-ajaykumarpujari22@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ajaykumarpujari22@gmail.com)
