@@ -4,7 +4,7 @@
 <img src="https://avatars.githubusercontent.com/Ajaykumar-19" width="130" style="border-radius:50%;" alt="Pujari Ajay Kumar"/>
 
 <h1>
-  <img src="profile.png" width="28"/>
+  
   Hi, I'm Pujari Ajay Kumar
 </h1>
 
